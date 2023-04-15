@@ -5,7 +5,7 @@ Idade = int(input("Coloque sua idade:"))
 EndereçoDoCliente = input("Coloque seu endereço:")
 EndereçoDaEntrega = input("Coloque o endereço da entrega:")
 cep = int(input("Coloque o número do seu CEP:"))
-MeioDeCompra = input("Qual o meio de compra(Exemplos: Cartão de crédito): ")
+
 CatalogoVinho = ("Vinhos a venda ---> (1)Vinho_A->R$50 / (2)Vinho_B->R$100 / (3)Vinho_C->R$150 / (4)Vinho_D->R$200 / (5)Vinho_E->R$250")
 
 
