@@ -46,7 +46,7 @@ elif Idade>=18:
         print("Compra com frete")
     else:
         print("Compra com frete grátis")
-    print("Unidades compradas --> VinhoA-> %d unidades   VinhoB-> %d unidades / VinhoC-> %d unidades / VinhoD-> %d unidades / VinhoE-> %d unidades" %(QtdViA,QtdViB,QtdViC,QtdViD,QtdViE))
+    print("Unidades compradas --> VinhoA-> %d unidades  /  VinhoB-> %d unidades / VinhoC-> %d unidades / VinhoD-> %d unidades / VinhoE-> %d unidades" %(QuantidadeVinhoA,QuantidadeVinhoB,QuantidadeVinhoC,QuantidadeVinhoD,QuantidadeVinhoE))
     print("Valor total da compra: %1.2f" %ValorTotalCompra)
     print("Será entregue em: %s" %EndereçoDaEntrega)
     Confirmação = input("A compra está correta? (S/N)  ")
